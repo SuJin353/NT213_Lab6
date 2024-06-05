@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LAB6</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="user_name">User name</string>
+    <string name="school">School</string>
+    <string name="class_room">Class</string>
+    <string name="phone_number">Phone number</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="back">Back</string>
+    <string name="user_list">User List</string>
+    <string name="username">Username:</string>
+    <string name="id">Id:</string>
+    <string name="user_info">User Info</string>
+    <string name="change_info">Change info</string>
+</resources>
